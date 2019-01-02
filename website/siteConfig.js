@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Notes', // Title for your website.
   tagline: 'A website for my notes',
   url: 'https://jlym.github.io', // Your website URL
-  baseUrl: '/notes', // Base URL for your project */
+  baseUrl: '/notes/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
